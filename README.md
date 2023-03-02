@@ -2,7 +2,7 @@
 
 ## mobile
 [Medito](https://github.com/meditohq/medito-app) | meditation app  
-[Loop Habit Tracker](https://github.com/iSoron/uhabits) | habit tracker
+[Loop Habit Tracker](https://github.com/iSoron/uhabits) | habit tracker  
 [Lemuroid](https://github.com/Swordfish90/Lemuroid) | emulation app  
 [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | better Reddit  
 
