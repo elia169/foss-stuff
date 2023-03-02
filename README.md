@@ -1,12 +1,21 @@
-# Foss things I use
+# foss things i use
 
-1. [Medito](https://github.com/meditohq/medito-app) | Android meditaion app
-2. [Notepads](https://github.com/0x7c13/Notepads) | Clean notepad with markdown support
-3. [Loop Habit Tracker](https://github.com/iSoron/uhabits) | Habit tracker for Android
-4. [Lemuroid](https://github.com/Swordfish90/Lemuroid) | Android emulation app
-5. [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | Better Reddit
-6. [LibreWolf](https://github.com/librewolf-community/source) | Firefox fork for more privacy
-7. [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | Multiple Minecraft instances
-8. [KeePassXC](https://github.com/keepassxreboot/keepassxc) | Password manager
-9. [Syncthing](https://github.com/syncthing/syncthing) | Sync files between devices
-10. [OnionShare](https://github.com/onionshare/onionshare) | P2P File sharing via Tor network
+## mobile
+[Medito](https://github.com/meditohq/medito-app) | meditaion app  
+[Loop Habit Tracker](https://github.com/iSoron/uhabits) | habit tracker
+[Lemuroid](https://github.com/Swordfish90/Lemuroid) | emulation app  
+[Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | better Reddit  
+
+## personal computer
+[Notepads](https://github.com/0x7c13/Notepads) | text editor with markdown support  
+[LibreWolf](https://github.com/librewolf-community/source) | Firefox fork for more privacy  
+[PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | multiple Minecraft instances  
+[Nomacs](https://github.com/nomacs/nomacs) | image-viewer (alternative to ImageGlass due to Spider controversy)  
+[Ditto](https://github.com/sabrogden/Ditto) | better clipboard  
+[Voidtools Everything](https://www.voidtools.com/) | locate files and folders by name instantly  
+
+## mobile and personal computer
+[Syncthing](https://github.com/syncthing/syncthing) | synchronize files between devices  
+[KeePassXC](https://github.com/keepassxreboot/keepassxc) | password manager  
+[OnionShare](https://github.com/onionshare/onionshare) | p2p file sharing via Tor network  
+[Obsidian](https://github.com/obsidianmd/obsidian-releases) | Extensive note taking program  
