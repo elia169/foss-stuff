@@ -13,6 +13,7 @@
 [Nomacs](https://github.com/nomacs/nomacs) | image-viewer (alternative to ImageGlass due to Spider controversy)  
 [Ditto](https://github.com/sabrogden/Ditto) | better clipboard  
 [Voidtools Everything](https://www.voidtools.com/) | locate files and folders by name instantly  
+[Rufus](https://github.com/pbatard/rufus) | create bootable usb-drives
 
 ## mobile and personal computer
 [Syncthing](https://github.com/syncthing/syncthing) | synchronize files between devices  
