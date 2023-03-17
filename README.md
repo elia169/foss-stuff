@@ -5,6 +5,7 @@
 [Loop Habit Tracker](https://github.com/iSoron/uhabits) | habit tracker  
 [Lemuroid](https://github.com/Swordfish90/Lemuroid) | emulation app  
 [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | better Reddit  
+[DSub](https://github.com/daneren2005/Subsonic) | music player for Subsonic server playback
 
 ## personal computer
 [Notepads](https://github.com/0x7c13/Notepads) | text editor with markdown support  
@@ -20,3 +21,4 @@
 [KeePassXC](https://github.com/keepassxreboot/keepassxc) | password manager  
 [OnionShare](https://github.com/onionshare/onionshare) | p2p file sharing via Tor network  
 [Obsidian](https://github.com/obsidianmd/obsidian-releases) | extensive note taking program  
+[Nextcloud](https://github.com/nextcloud) | client-server software
